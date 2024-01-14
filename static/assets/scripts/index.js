@@ -59,5 +59,5 @@ if (password==pass1)
   alert('Password Correct. Click OK to enter!');
 else
    {
-    window.location="https://www.google.com";
+    window.location="https://www.classroom.google.com";
     }
